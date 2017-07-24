@@ -1,14 +1,17 @@
-Welcome to the Glitch BETA
+Welcome to the Kid Alpha chat bot hosted by Glitch BETA
 =========================
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
+The application is voice integrated and has small-talk enabled.
 
-**Glitch** is the friendly commmunity where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
+Kid is hosted here-
+https://glass-gong.glitch.me/
 
-Find out more [about Glitch](https://glitch.com/about).
+Important Section
+-----------------
+Complete project code is in index.html
+Ignore everything else which is for Glitch to run
 
-
-Your Project
+Glitch Project
 ------------
 
 On the front-end,
@@ -19,9 +22,3 @@ On the back-end,
 - your app starts at `server.js`
 - add frameworks and packages in `package.json`
 - safely store app secrets in `.env` (nobody can see this but you and people you invite)
-
-
-Made by [Fog Creek](https://fogcreek.com/)
--------------------
-
-\ ゜o゜)ノ
